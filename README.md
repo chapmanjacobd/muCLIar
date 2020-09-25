@@ -144,3 +144,7 @@ This project is licensed under the Apache License - see the [LICENSE.md](LICENSE
 
 ## Acknowledgments
 * [AdBlocking Extension](https://chrome.google.com/webstore/detail/video-ad-blocker-plus-for/hegneaniplmfjcmohoclabblbahcbjoe?hl=en) 
+
+## Similar Projects
+
+- [playx](https://github.com/NISH1001/playx)
